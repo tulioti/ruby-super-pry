@@ -1,5 +1,7 @@
 # Ruby with Super-pry
 
+Site: https://medium.com/@kevinyckim33/create-a-local-ruby-repl-it-with-pry-and-rspec-from-scratch-541eff11bbef
+
 ## Overview
 
 This lightweight repo is the equivalent of [repl.it/ruby](https://repl.it/languages/ruby) but with pry and rspec installed.
